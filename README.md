@@ -1,7 +1,7 @@
 # Discovering-Laravel
 
 ## TO DO: 
-- [] 🌱 Use the [Laravel routing system](https://laracasts.com/series/laravel-8-from-scratch/episodes/5) to show a simple `hello world` on the screen.
+- [x] 🌱 Use the [Laravel routing system](https://laracasts.com/series/laravel-8-from-scratch/episodes/5) to show a simple `hello world` on the screen.
 - [] Apply (part of) the MVC structure: the route will go to a controller, which will then load the view.
 - [] I don't see a thing! Laravel has a public folder, which is supposed to become the root for serving your website once it lives online. For now, just add /public to your url to run it from that folder.
 
