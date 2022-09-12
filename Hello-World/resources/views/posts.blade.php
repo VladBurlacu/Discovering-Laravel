@@ -11,17 +11,17 @@
     <body class="antialiased">
 
     <article>
-        <h1>My first post</h1>
+        <h1><a href="/posts/my-first-post">My first post</a></h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquam aliquid aut consequatur dolorum ducimus eos est expedita in labore, modi necessitatibus qui recusandae repellat sapiente tempora, tempore ut, veritatis?</p>
     </article>
 
     <article>
-        <h1>My second post</h1>
+        <h1><a href="/posts/my-second-post">My second post</a></h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquam aliquid aut consequatur dolorum ducimus eos est expedita in labore, modi necessitatibus qui recusandae repellat sapiente tempora, tempore ut, veritatis?</p>
     </article>
 
     <article>
-        <h1>My third post</h1>
+        <h1><a href="/posts/my-third-post">My third post</a></h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium aliquam aliquid aut consequatur dolorum ducimus eos est expedita in labore, modi necessitatibus qui recusandae repellat sapiente tempora, tempore ut, veritatis?</p>
     </article>
 
